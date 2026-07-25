@@ -138,7 +138,7 @@ Business questions solved using MySQL:
 # 📈 Power BI Dashboard
 
 Interactive dashboard includes:
-![Dashboard](Images/dashboard-screenshot.png)
+![Dashboard](dashboard-screenshot.png)
 
 ### KPI Cards
 
