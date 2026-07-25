@@ -222,6 +222,16 @@ This project demonstrates an end-to-end Data Analytics workflow using Python, My
 
 ## 👨‍💻 Author
 
-**Hasnain Raza**
+---
+
+## 👨‍💻 Developer
+
+**Name:** Hasnain Raza
+
+📧 **Email:** hk1295533@gmail.com
+
+📱 **Phone:** +91 9835389482
+
+Thank you for checking out this project! If you have any questions, feedback, or collaboration opportunities, feel free to contact me.
 
 Data Analytics | Python | SQL | Power BI
